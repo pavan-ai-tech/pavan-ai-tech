@@ -33,7 +33,7 @@ My long-term goal is to become *a leading mind in AI* and use technology to crea
 
 ## 🌍 Connect with Me
 📫 Email: *pavan773366@gmail.com*  
-💼 GitHub: [github.com/pavan-ai-tech](https://github.com/pavan-ai-tech)  
+💼 GitHub: [github.com/pavan-ai-tech] (https://github.com/pavan-ai-tech)
 
 ---
 
